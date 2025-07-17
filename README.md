@@ -3,7 +3,7 @@
 ## 基本信息
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://sorrow-scarlet.github.io/)  
 各种Markdown写作模板参考
-> [!NOTE]提示
+> [!NOTE] 提示
 > [点此进入头图生成器](https://github.com/leviarista/github-profile-header-generator#)
 ## 模板种类
 - 邮件
