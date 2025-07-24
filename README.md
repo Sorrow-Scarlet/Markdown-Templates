@@ -8,6 +8,8 @@
 ## 模板种类
 - 邮件
 - 项目自述
+- ISSUE
+- Pull Request
 - 未完待续...
 ## 许可证
 ![CC BY-SA License](https://img.shields.io/badge/模板%20license-CC%20BY--SA%204.0-red.svg?style=flat-square)  
