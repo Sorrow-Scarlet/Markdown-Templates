@@ -51,7 +51,9 @@
 </style>
 
 <!-- 正文 -->
+
 # Lorem Ipsum
+
 <div class="github-alert">
   <div>
     <h3>NOTICE</h3>
@@ -59,24 +61,27 @@
   </div>
 </div>
 
-## Summary 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas blandit metus ut commodo lacinia. Cras eleifend sapien ut ornare eleifend. Cras fermentum lacinia urna, a placerat risus commodo euismod. Quisque nec semper tellus.
-## Details  
-Cras eleifend sapien ut ornare eleifend. Cras fermentum lacinia urna, a placerat risus commodo euismod. Quisque nec semper tellus. Vivamus tristique tortor ut orci sollicitudin, non efficitur sapien tempus. Vivamus quam metus, convallis vel tellus malesuada, pharetra varius nunc. Curabitur vestibulum aliquam venenatis. Nullam fringilla placerat tempus. Nunc egestas purus et iaculis lobortis.   
-Nulla efficitur dui nisl, lacinia dictum augue placerat vitae. Cras a quam tempus, porta metus varius, convallis tellus. Praesent eleifend tempus nibh, vel dignissim dolor pretium vel. Nam vitae gravida est. Pellentesque sem massa, vehicula ac hendrerit eu, fringilla at ligula.  
+## Summary
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas blandit metus ut commodo lacinia. Cras eleifend sapien ut ornare eleifend. Cras fermentum lacinia urna, a placerat risus commodo euismod. Quisque nec semper tellus.
+
+## Details
+
+Cras eleifend sapien ut ornare eleifend. Cras fermentum lacinia urna, a placerat risus commodo euismod. Quisque nec semper tellus. Vivamus tristique tortor ut orci sollicitudin, non efficitur sapien tempus. Vivamus quam metus, convallis vel tellus malesuada, pharetra varius nunc. Curabitur vestibulum aliquam venenatis. Nullam fringilla placerat tempus. Nunc egestas purus et iaculis lobortis.  
+Nulla efficitur dui nisl, lacinia dictum augue placerat vitae. Cras a quam tempus, porta metus varius, convallis tellus. Praesent eleifend tempus nibh, vel dignissim dolor pretium vel. Nam vitae gravida est. Pellentesque sem massa, vehicula ac hendrerit eu, fringilla at ligula.
 
 ## Todo
 
 - Lorem Ipsum
 - Lorem Ipsum
-- Lorem Ipsum  
+- Lorem Ipsum
 
-Cras eleifend sapien ut ornare eleifend. Cras fermentum lacinia urna, a placerat risus commodo euismod. Quisque nec semper tellus. Vivamus tristique tortor ut orci sollicitudin, non efficitur sapien tempus. Vivamus quam metus, convallis vel tellus malesuada, pharetra varius nunc. Curabitur vestibulum aliquam venenatis. Nullam fringilla placerat tempus. Nunc egestas purus et iaculis lobortis.   
+Cras eleifend sapien ut ornare eleifend. Cras fermentum lacinia urna, a placerat risus commodo euismod. Quisque nec semper tellus. Vivamus tristique tortor ut orci sollicitudin, non efficitur sapien tempus. Vivamus quam metus, convallis vel tellus malesuada, pharetra varius nunc. Curabitur vestibulum aliquam venenatis. Nullam fringilla placerat tempus. Nunc egestas purus et iaculis lobortis.
 
 ## Additions
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas blandit metus ut commodo lacinia.  
-Cras a quam tempus, porta metus varius, convallis tellus.  
+Cras a quam tempus, porta metus varius, convallis tellus.
 
 <!--邮件签名 -->
 <div style="clear: both; font-size: 0; height: 0px; overflow: hidden;">&nbsp;</div>

@@ -1,7 +1,7 @@
 :root {
-  --warning-bg:rgb(238, 253, 255);
-  --warning-border:rgb(238, 253, 255);
-  --warning-text:rgb(0, 83, 116);
+  --warning-bg: rgb(238, 253, 255);
+  --warning-border: rgb(238, 253, 255);
+  --warning-text: rgb(0, 83, 116);
 }
 .github-alert {
   position: relative;
@@ -17,15 +17,17 @@
   gap: 1.5rem;
 }
 .github-alert::before {
-  content: '';
+  content: "";
   position: absolute;
   top: -8px;
   left: -8px;
   right: -8px;
   bottom: -8px;
-  background: linear-gradient(135deg, 
+  background: linear-gradient(
+    135deg,
     rgba(255, 255, 255, 0.1) 0%,
-    rgba(255, 255, 255, 0.05) 100%);
+    rgba(255, 255, 255, 0.05) 100%
+  );
   z-index: -1;
   border-radius: 12px;
 }
