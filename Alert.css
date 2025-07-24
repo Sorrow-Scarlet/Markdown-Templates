@@ -1,0 +1,49 @@
+:root {
+  --warning-bg:rgb(238, 253, 255);
+  --warning-border:rgb(238, 253, 255);
+  --warning-text:rgb(0, 83, 116);
+}
+.github-alert {
+  position: relative;
+  padding: 1.25rem 2rem;
+  border-radius: 8px;
+  margin: 1.5rem 0;
+  background: var(--warning-bg);
+  border: 1px solid var(--warning-border);
+  box-shadow: var(--warning-shadow);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+.github-alert::before {
+  content: '';
+  position: absolute;
+  top: -8px;
+  left: -8px;
+  right: -8px;
+  bottom: -8px;
+  background: linear-gradient(135deg, 
+    rgba(255, 255, 255, 0.1) 0%,
+    rgba(255, 255, 255, 0.05) 100%);
+  z-index: -1;
+  border-radius: 12px;
+}
+.github-alert > div {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.github-alert h3 {
+  margin: 0;
+  color: var(--warning-text);
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+.github-alert p {
+  margin: 0;
+  color: var(--warning-text);
+  line-height: 1.6;
+  opacity: 0.9;
+}
